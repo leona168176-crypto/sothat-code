@@ -30,9 +30,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sothat-code&show_icons=true&theme=radium&hide_border=true" alt="sothat-code's GitHub stats" />
 </p>
 
-### 📫 ទំនាក់ទំនងមកខ្ញុំ៖
+### 📫 ទំនាក់ទំនង និងបណ្ដាញសង្គមរបស់ខ្ញុំ៖
 <p>
   <a href="mailto:sothat.business@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="ដាក់_Link_YouTube_របស់អ្នកនៅទីនេះ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+
+  <a href="ដាក់_Link_LinkedIn_របស់អ្នកនៅទីនេះ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="ដាក់_Link_Facebook_របស់អ្នកនៅទីនេះ">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
